@@ -1,1 +1,1 @@
-# A GUI Game made using Python 
+A GUI Game made using Python 
